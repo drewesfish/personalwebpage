@@ -1,0 +1,228 @@
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+.h1projects { 
+  font-family: 'Merriweather', serif;
+  font-size: 50px;
+  display: inline-block;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{ color: #66BFBF}
+/* extra font font-family:  */
+
+
+hr { 
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto; 
+}
+
+a {
+  font-family: 'Noto Sans', sans-serif;
+  color: blue;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover { color: #40514E;}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1em;
+  color: #40514E;
+}
+
+.posttouch {
+  padding-left: 7.5%;
+  padding-right: 7.5%;
+
+}
+
+.hangtop{
+  padding-top: 12%;
+}
+
+.project-div {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 1%;
+}
+
+.rightpic {
+  float: right;
+  width: 35%;
+  margin-left: 30px;
+}
+
+.leftpic{ 
+  float: left;
+  width: 35%;
+  margin-right: 30px;}
+
+.btn {
+  width: 2.5%;
+  height: auto;
+}
+
+.btn:hover {
+  background-color: greenyellow;
+}
+
+.pointer {
+  width: 5%;
+}
+
+.ul-pro {
+  text-decoration: underline;
+}
+
+.profavatar {
+  width: 10%;
+  padding-top: 7%;
+}
+
+.skill-row1 {
+  padding-top: 2.5%;
+  padding-bottom: 5%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-skills-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.comms-p-main {
+ font-size: 1.5rem;
+ padding-left: 25%;
+ padding-right: 25%;
+}
+
+.comm-skills-image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom:30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.div-top-cloud {
+  height: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-hr { margin-top: 150px;}
+
+.top-container {
+  background-color: #F7ECDE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.proj-top-container {
+  background-color: #F7ECDE;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 5%;
+  margin-bottom: 75px;
+}
+
+
+.bottom-container {
+padding-top: 2%;
+background-color: #66BFBF;
+padding-bottom: 20px;
+color: white;
+}
+
+.proj-bottom-container {
+  margin-top: 5%;
+  padding-top: 2%;
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+  color: white;
+  }
+
+.hookpic {
+  position: absolute;
+  display: inline-block;
+  width: 5%;
+  right: 10%;
+  
+}
+
+
+.hookpic2 {
+  position: absolute;
+  display: inline-block;
+  width: 5%;
+  top: 1%;
+  left: 1%;
+
+}
+
+.hookpic2:hover {
+  background-color: limegreen;
+
+}
+
+
+.franksbeer { 
+  width: 35%;
+  float:left;
+  margin-right: 30px;
+  margin-bottom: 150px;
+}
+
+.homepic {
+  position: absolute;
+  display: inline-block;
+  width: 5%;
+  left: 1%;
+  border-radius: 45%;
+
+  top: 1%;
+}
+
+.homepic:hover {
+  background-color: limegreen;
+}
